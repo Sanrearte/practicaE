@@ -4,3 +4,14 @@
 
 15- Al hacer "git add ." los 6 archivos se colocaron en la sala de espera listos para hacer "commit", pero en el paso (14) al modificar el archivo "datosp.txt" se necesita actualizarlo para poder hacer "commit" con los cambios realizados.
 
+18- Al hacer "git log" nos aparece todos los "commit" que realizamos hasta el momento, junto con su hora y fecha, el usuario que lo realizó y lo asocia a un hash.
+
+21- Al hacer "git log" nos aparece lo mismo que en el punto (18) pero ahora nos aparece la rama "main", ya que la creamos al sincronizar el repo remoto y repo local.
+
+24- Al hacer "git status" me aparece que aún debo actualizar el archivo "comentarios.txt" debido a los nuevos comentarios que hice y no me aparecen los archivos "especialidad.txt" ni "cursos.txt" porque esos archivos están en el repo remoto y aún no están sincronizados.
+
+29-
+
+31-
+
+33-
