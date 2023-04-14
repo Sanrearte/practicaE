@@ -1,0 +1,6 @@
+10- Cuando ejecute git status, me pone que hay 5 archivos que no estan en la sala de espera, por lo tanto no se puede hacer "commit".
+
+12- Apareció el archivo "comentarios.txt" porque para el paso (10) lo tuve que crear.
+
+15- Al hacer "git add ." los 6 archivos se colocaron en la sala de espera listos para hacer "commit", pero en el paso (14) al modificar el archivo "datosp.txt" se necesita actualizarlo para poder hacer "commit" con los cambios realizados.
+
