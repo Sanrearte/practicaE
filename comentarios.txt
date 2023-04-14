@@ -10,8 +10,8 @@
 
 24- Al hacer "git status" me aparece que aún debo actualizar el archivo "comentarios.txt" debido a los nuevos comentarios que hice y no me aparecen los archivos "especialidad.txt" ni "cursos.txt" porque esos archivos están en el repo remoto y aún no están sincronizados.
 
-29-
+29- Ahora cree una rama nueva llamada "Version 4.0", la cual, al hacer cambios en esta rama, no afectarán a la rama principal "main".
 
-31-
+31- Al hacer "git status" me aparecen que el archivo "comentarios.txt" y el directorio "lab2" necesitan actualizarse antes de hacer el "commit" y que los directorios "repo1", "repo2" y "repo3" aún no están en la sala de espera.
 
 33-
